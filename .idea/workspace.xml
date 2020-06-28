@@ -127,7 +127,7 @@
       <updated>1593196645104</updated>
       <workItem from="1593196649783" duration="22826000" />
       <workItem from="1593310675944" duration="5079000" />
-      <workItem from="1593318676039" duration="1399000" />
+      <workItem from="1593318676039" duration="1695000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1593318710289</created>
@@ -171,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593320977915</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test23">
+      <created>1593321898722</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1593321898722</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,10 +215,10 @@
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state x="2117" y="166" key="#testCase_2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593232076375" />
-    <state x="2011" y="143" key="CommitChangelistDialog2" timestamp="1593320977827">
+    <state x="2011" y="143" key="CommitChangelistDialog2" timestamp="1593321898595">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state x="2011" y="143" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593320977827" />
+    <state x="2011" y="143" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593321898595" />
     <state x="2154" y="322" key="EnvironmentVariablesDialog" timestamp="1593231758002">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
@@ -275,10 +282,10 @@
     </state>
     <state x="2238" y="416" key="VCS.EditChangelistDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593311465458" />
     <state x="2238" y="416" key="VCS.EditChangelistDialog/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593318003703" />
-    <state x="2000" y="280" key="Vcs.Push.Dialog.v2" timestamp="1593320985323">
+    <state x="2000" y="280" key="Vcs.Push.Dialog.v2" timestamp="1593321918454">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state x="2000" y="280" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593320985323" />
+    <state x="2000" y="280" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593321918454" />
     <state x="2000" y="280" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593318798587" />
     <state x="1540" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1593312585918">
       <screen x="1440" y="0" width="1920" height="1080" />
