@@ -18,6 +18,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1drwiCWGGiaPFJzZMKbcm9LZqSk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -35,7 +42,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -105,7 +112,7 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -115,14 +122,21 @@
       <option name="presentableId" value="Default" />
       <updated>1593196645104</updated>
       <workItem from="1593196649783" duration="22826000" />
-      <workItem from="1593310675944" duration="1676000" />
+      <workItem from="1593310675944" duration="5079000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="2000" y="205" key="#Notifications" timestamp="1593318045828">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2000" y="205" key="#Notifications/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593318045828" />
     <state x="1864" y="202" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593232559725">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
@@ -151,11 +165,15 @@
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state x="2216" y="446" key="Github.CreateGistDialog/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593309638879" />
-    <state x="2271" y="440" key="Github.ShareDialog" timestamp="1593312562199">
+    <state x="2270" y="440" key="Github.ShareDialog" timestamp="1593312627039">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state x="2271" y="440" key="Github.ShareDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593312562199" />
+    <state x="2270" y="440" key="Github.ShareDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593312627039" />
     <state x="2271" y="440" key="Github.ShareDialog/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593309697456" />
+    <state x="2155" y="254" key="Github.UntrackedFilesDialog" timestamp="1593312646953">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2155" y="254" key="Github.UntrackedFilesDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593312646953" />
     <state width="1878" height="517" key="GridCell.Tab.0.bottom" timestamp="1593310491510">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
@@ -192,14 +210,16 @@
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state width="1878" height="366" key="GridCell.Tab.1.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593231933520" />
-    <state x="1909" y="179" key="SettingsEditor" timestamp="1593312309973">
+    <state x="1909" y="179" key="SettingsEditor" timestamp="1593318604966">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state x="1909" y="179" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593312309973" />
-    <state x="2238" y="416" key="VCS.EditChangelistDialog" timestamp="1593311465458">
+    <state x="1909" y="179" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593318202460" />
+    <state x="1909" y="179" key="SettingsEditor/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593318604966" />
+    <state x="2238" y="416" key="VCS.EditChangelistDialog" timestamp="1593318003703">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state x="2238" y="416" key="VCS.EditChangelistDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593311465458" />
+    <state x="2238" y="416" key="VCS.EditChangelistDialog/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1593318003703" />
     <state x="1540" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1593312585918">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
