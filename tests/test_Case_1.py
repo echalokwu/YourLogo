@@ -18,7 +18,7 @@ def test_setUp():
 def test_verify_user_can_register(test_setUp):
     register = RegistrationPage(driver)
 
-    register.enter_create_account_email("iwe305@gmail.com")
+    register.enter_create_account_email("iwe568@gmail.com")
     register.click_create_account_button()
     register.select_title()
     register.enter_customer_firstName("iwe")
