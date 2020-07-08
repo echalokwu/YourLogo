@@ -1,24 +1,12 @@
-import pytest
-from selenium import webdriver
+from utils import utils as utils
 from pages.registration import RegistrationPage
 
 
-@pytest.fixture()
-def test_setUp():
-    global driver
-    driver = webdriver.Chrome(executable_path="/Users/echalo/Desktop/YourLogo/automation/drivers/chromedriver")
-    driver.get("http://automationpractice.com/index.php?controller=authentication&back=my-account#account-creation")
-    driver.implicitly_wait(10)
-    driver.maximize_window()
-    yield
-    driver.close()
-    driver.quit()
+def test_verify_user_can_register(browser):
+    register = RegistrationPage(browser)
 
-
-def test_verify_user_can_register(test_setUp):
-    register = RegistrationPage(driver)
-
-    register.enter_create_account_email("iwe538@gmail.com")
+    register.load()
+    register.enter_create_account_email("iwad8@gmail.com")
     register.click_create_account_button()
     register.select_title()
     register.enter_customer_firstName("iwe")
@@ -38,4 +26,3 @@ def test_verify_user_can_register(test_setUp):
     register.enter_mobile("4586996666")
     register.enter_address_alia("My address")
     register.click_register_button()
-

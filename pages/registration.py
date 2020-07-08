@@ -1,13 +1,13 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
-
 from locators.locators import Locators
 
 
 class RegistrationPage:
-    def __init__(self, driver):
-        self.driver = driver
+    def __init__(self, browser):
+        self.driver = browser
 
+        self.URL = "http://automationpractice.com/index.php?controller=authentication&back=my-account#account-creation"
         self.createAccount_textBox_id = Locators.createAccount_textBox_id
         self.createAccount_button_xpath = Locators.createAccount_button_xpath
         self.passWord_textBox_id = Locators.passWord_textBox_id
@@ -28,6 +28,9 @@ class RegistrationPage:
         self.mobile_textBox_id = Locators.mobile_textBox_id
         self.address_alias_id = Locators.address_alias_id
         self.register_button_xpath = Locators.register_button_xpath
+
+    def load(self):
+        self.driver.get(self.URL)
 
     def enter_create_account_email(self, email):
         self.driver.find_element(By.ID, Locators.createAccount_textBox_id).clear()
